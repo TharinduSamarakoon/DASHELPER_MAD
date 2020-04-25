@@ -1,0 +1,2 @@
+rootProject.name='DASHELPER_MAD'
+include ':app'
